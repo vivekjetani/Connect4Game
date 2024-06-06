@@ -54,12 +54,12 @@ A Connect 4 game implemented in Python using the Tkinter library for the graphic
 3. Use the "Switch to Dark Mode" button to toggle between light and dark modes.
 
 ## File Structure
-
+```
 connect4game/
 │
 ├── main.py # Main Python script containing the game logic and GUI
 ├── README.md # This README file
-
+```
 
 ## Screenshots
 
