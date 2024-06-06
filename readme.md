@@ -57,8 +57,10 @@ A Connect 4 game implemented in Python using the Tkinter library for the graphic
 ```
 connect4game/
 │
+├── screenshots/ # Directory containing screenshots of the game
 ├── main.py # Main Python script containing the game logic and GUI
 ├── README.md # This README file
+├── LICENSE # License file
 ```
 
 ## Screenshots
